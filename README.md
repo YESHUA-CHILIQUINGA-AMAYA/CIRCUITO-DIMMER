@@ -120,3 +120,4 @@ https://www.onubaelectronica.es/condensador-ceramico/
 
 http://www.electronicaivanespinoza.com/2018/12/como-hacer-un-dimmer-electronico-con.html
 
+https://www.youtube.com/watch?v=-Q6ZaH_hCBc
