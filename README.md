@@ -22,7 +22,7 @@ Construir un circuito Dimmer con la finalidad de entender su funcionamiento.
 
 El Dimmer electrónico es un regulador atenuador o dimmer, sirve para regular la energía en uno o varios focos con el fin de variar la intensidad de la luz que emiten, cuando las propiedades de la lámpara lo hacen posible, en sí, el dimmer tiene muchas aplicaciones, podemos regular la velocidad de giro de un motor eléctrico, también podemos conectar un cautín para regular su temperatura, en si lo que hace el dimmer es variar el voltaje AC (corriente alterna) en una des sus salidas del dimmer, al final del blog veremos cómo regular la velocidad e un ventilador.
 
-## Marco teórico:
+## MARCO TEÓRICO:
 
 ### Diagrama:  
 
@@ -107,6 +107,10 @@ Un potenciómetro tiene un funcionamiento sencillo, tiene una resistencia variab
 ![image](https://user-images.githubusercontent.com/104863870/179683202-9d6615c5-8f02-4322-be03-72076db42d82.png)
 
 ![image](https://user-images.githubusercontent.com/104863870/179683211-c26a443b-2fc8-4d3f-a493-a24649ee4b9b.png)
+
+### VIDEO:
+
+https://youtu.be/g-i2RGkr05I
 
 ### CONCLUSIÓN:
 
